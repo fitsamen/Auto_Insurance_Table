@@ -1,5 +1,13 @@
 
+
+
+
 ---new change created for table 2 
+---ANOTHER NEW STUFF FOR TABLE 2
+
+
+
+
 
 create database Auto_Insurance
 
