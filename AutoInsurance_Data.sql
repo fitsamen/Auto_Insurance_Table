@@ -6,7 +6,7 @@
 ---ANOTHER NEW STUFF FOR TABLE 2
 
 
-
+--ygjgjh
 
 
 create database Auto_Insurance
