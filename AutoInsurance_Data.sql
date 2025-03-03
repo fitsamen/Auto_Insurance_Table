@@ -1,5 +1,6 @@
 
----new change
+---new change created for table 2 
+
 create database Auto_Insurance
 
 Create table Policy (
